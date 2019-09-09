@@ -1,16 +1,16 @@
 # Awesome Splunk [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome apps, visualisations and other resourcesi for Splunk.
+> A curated list of awesome apps, visualisations and other resources for Splunk.
 
 ## Contents
 
-- [Basics] Basics
-- [Apps]
-    - [PremiumApps]
-- [Viz]
-- [Use-Cases]
-- [Conferences and Meet-Ups]
-- [Contribute]
+- [Basics](#basics) Basic resources for getting started
+- [Apps](#apps)
+    - [PremiumApps](#premium-apps)
+- [Viz](#viz)
+- [Use-Cases](#use-cases)
+- [Conferences, Meet-Ups and Socialising](#conferences-meet-ups-and-socialsing)
+- [Contribute](#contribute)
 
 ## Basics
 
