@@ -9,7 +9,7 @@
   - [Premium Apps](#premium-apps)
 - [Visualisations](#visualisations)
 - [Use-Cases](#use-cases)
-- [Conferences, Meet-Ups and Socialising](#conferences-meetups-and-socialising)
+- [Conferences, Meet-Ups and Socialising](#conferences-meet-ups-and-socialising)
 - [Contribute](#contribute)
 
 ## Basics
