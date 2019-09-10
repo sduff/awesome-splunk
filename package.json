@@ -1,4 +1,9 @@
 {
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sduff/awesome-splunk.git"
+    },
+    "license": "CC0-1.0",
 	"scripts": {
 		"test": "awesome-lint"
 	},

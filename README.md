@@ -6,10 +6,10 @@
 
 - [Basics](#basics) Basic resources for getting started
 - [Apps](#apps)
-    - [PremiumApps](#premium-apps)
-- [Viz](#viz)
+  - [Premium Apps](#premium-apps)
+- [Visualisations](#visualisations)
 - [Use-Cases](#use-cases)
-- [Conferences, Meet-Ups and Socialising](#conferences-meet-ups-and-socialsing)
+- [Conferences, Meet-Ups and Socialising](#conferences-meetups-and-socialising)
 - [Contribute](#contribute)
 
 ## Basics
@@ -17,13 +17,13 @@
 About this section. Optional. Keep this short and focus on the list.
 
 - [Splunk Website](https://splunk.com)
-   - [Downloads](https://www.splunk.com/download)
-   - [Previous Releases](https://www.splunk.com/page/previous_releases)
-- [Splunk Answers](https://answers.splunk.com)
+  - [Downloads](https://www.splunk.com/download)
+  - [Previous Releases](https://www.splunk.com/page/previous_releases)
+- Splunk Answers](https://answers.splunk.com)
 - [SplunkBase](https://splunkbase.splunk.com)
 - [Splunk Blogs](https://blogs.splunk.com/)
 - [Splunk Dev](https://dev.splunk.com)
-   - [Free Dev License](httpis://dev.splunk.com/page/developer_license_sign_up)
+  - [Free Dev License](httpis://dev.splunk.com/page/developer_license_sign_up)
 - [Splunk Docs](https://docs.splunk.com/)
 
 ## Apps
@@ -42,11 +42,17 @@ About this section. Optional. Keep this short and focus on the list.
 - [Awesome-ES](http://example.com)
 
 ## Visualisations
+- [List item](http://example.com)
+- [List item](http://example.com)
 
-## Conferences and Meet-Ups
+## Use-Cases
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## Conferences, Meet-Ups and Socialising
 - [UserGroups](https://usergroups.splunk.com/)
 - [.Conf](https://conf.splunk.com)
-    - [Past .Conf Material](https://https://conf.splunk.com/watch/conf-online.html)
+  - [Past .Conf Material](https://conf.splunk.com/watch/conf-online.html)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
@@ -56,3 +62,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Simon Duff has waived all copyright and
 related or neighboring rights to this work.
+
