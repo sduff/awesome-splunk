@@ -10,7 +10,6 @@
 - [Visualisations](#visualisations)
 - [Use-Cases](#use-cases)
 - [Conferences, Meet-Ups and Socialising](#conferences-meet-ups-and-socialising)
-- [Contribute](#contribute)
 
 ## Basics
 
@@ -54,10 +53,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [.Conf](https://conf.splunk.com)
   - [Past .Conf Material](https://conf.splunk.com/watch/conf-online.html)
 
-## Contribute
+### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## License
+### Licence
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Simon Duff has waived all copyright and
