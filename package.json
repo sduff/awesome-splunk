@@ -1,13 +1,14 @@
 {
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/sduff/awesome-splunk.git"
-    },
-    "license": "CC0-1.0",
-	"scripts": {
-		"test": "awesome-lint"
-	},
-	"devDependencies": {
-		"awesome-lint": "*"
-	}
+ "repository": {
+  "type": "git",
+  "url": "git://github.com/sduff/awesome-splunk.git"
+ },
+ "license": "CC0-1.0",
+ "scripts": {
+  "test": "mdspell -r -x -n README.md && awesome-lint"
+ },
+ "devDependencies": {
+  "awesome-lint": "*",
+  "markdown-spellcheck": "*"
+ }
 }

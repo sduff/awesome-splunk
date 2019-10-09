@@ -29,9 +29,9 @@ Basic resources for getting started with Splunk.
 
 ## Apps
 
-Recomended Splunk Apps.
+Recommended Splunk Apps.
 
-- [Splunk App for Infrastructure](https://www.splunk.com/en_us/software/splunk-enterprise/server-and-infrastructure-monitoring-and-troubleshooting.html) - Corelate logs and metrics for infrastructure monitoring.
+- [Splunk App for Infrastructure](https://www.splunk.com/en_us/software/splunk-enterprise/server-and-infrastructure-monitoring-and-troubleshooting.html) - Correlate logs and metrics for infrastructure monitoring.
   - [Splunkbase Entry](https://splunkbase.splunk.com/app/3975/) - Download page.
   - [SAI Documentation](https://docs.splunk.com/Documentation/InfraApp) - Splunk App for Infrastructure Documentation.
   - [SAI Install Guide](https://docs.splunk.com/Documentation/InfraApp/latest/Install/About)
@@ -42,7 +42,7 @@ Premium Apps for Splunk.
 
 #### Enterprise Security
 
-Splunk Enterprise Security is the nerve center of the security ecosystem, giving teams the insight to quickly detect and respond to internal and external attacks, simplify threat management minimizing risk.
+Splunk Enterprise Security is the nerve centre of the security ecosystem, giving teams the insight to quickly detect and respond to internal and external attacks, simplify threat management minimizing risk.
 
 - [ES Home Page](https://www.splunk.com/en_us/software/enterprise-security.html) - Splunk's Home Page for Enterprise Security.
 - [ES Splunkbase Entry](https://splunkbase.splunk.com/app/263/) - Download page (if licensed).
@@ -60,7 +60,7 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 
 ## Visualisations
 
-- [Event Timeline Viz](https://splunkbase.splunk.com/app/4370/) - Interactive timeline with callouts for events.
+- [Event Timeline Viz](https://splunkbase.splunk.com/app/4370/) - Interactive timeline with call-outs for events.
 - [Timeline](https://splunkbase.splunk.com/app/3120/) - Interactive timeline.
 - [Halo](https://splunkbase.splunk.com/app/3514/) - Hierarchical, relational pie charts.
 - [Heat Map](https://splunkbase.splunk.com/app/4460/) - A grid of related measurements, colour intensity derived from the value.
@@ -82,7 +82,7 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 - [Splunk Store](https://www.mylogocloud.com/splunk) - Order some Splunk Schwag you missed from a meetup or .conf.
 - [Splunk Trust](https://www.splunk.com/en_us/community/splunk-trust.html)
 
-### Non Splunk Resources
+## Non Splunk Resources
 
 Splunk resources from unofficial sources
 
@@ -111,4 +111,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Simon Duff has waived all copyright and
-related or neighboring rights to this work.
+related or neighbouring rights to this work.
