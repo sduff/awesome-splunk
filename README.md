@@ -2,6 +2,12 @@
 
 > A curated list of awesome apps, visualisations and other resources for Splunk.
 
+*Splunk* captures, indexes, and correlates real-time data in a searchable
+repository from which graphs, reports, alerts, dashboards, and visualizations
+can be generated. It is widely used in industries such as finance, utilities,
+healthcare and manufacturing for use-cases including security, compliance and
+IT service monitoring.
+
 ## Contents
 
 - [Basics](#basics) Basic resources for getting started
@@ -9,7 +15,7 @@
   - [Premium Apps](#premium-apps)
 - [Visualisations](#visualisations)
 - [Conferences, Meet-Ups and Socialising](#conferences-meet-ups-and-socialising)
-- [Non Splunk Resources](#non-splunk-resources)
+- [Unofficial Resources](#unofficial-resources)
 
 ## Basics
 
@@ -82,7 +88,7 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 - [Splunk Store](https://www.mylogocloud.com/splunk) - Order some Splunk Schwag you missed from a meetup or .conf.
 - [Splunk Trust](https://www.splunk.com/en_us/community/splunk-trust.html)
 
-## Non Splunk Resources
+## Unofficial Resources
 
 Splunk resources from unofficial sources
 
