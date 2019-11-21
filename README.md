@@ -90,23 +90,24 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 
 ## Unofficial Resources
 
-Splunk resources from unofficial sources
+Useful Splunk resources that are not specifically associated with Splunk Inc.
 
 #### Personal Home Pages
 
-- [Simon Duff](https://simonduff.net/splunk)
-- [Ryan Faircloth](https://www.rfaircloth.com/)
-- [George Starcher](http://www.georgestarcher.com/)
-- [Anthony Tellez](https://anthonygtellez.github.io/)
-- [Duane Waddle](https://www.duanewaddle.com/)
-- [Vladimir's GitHub](https://github.com/hire-vladimir/)
-- [David Veuve](https://www.davidveuve.com/tech/)
+- [Simon Duff](https://simonduff.net/splunk) - Miscelaneous scripts and visualisations.
+- [Ryan Faircloth](https://www.rfaircloth.com/) - Security and Syslog related materials.
+- [George Starcher](http://www.georgestarcher.com/) - Many Splunk related items, including details on Splunk ES's Extreme Search.
+- [Anthony Tellez](https://anthonygtellez.github.io/) - Security and Machine Learning items.
+- [Duane Waddle](https://www.duanewaddle.com/) - Miscelaneous Splunk items.
+- [Vladimir's GitHub](https://github.com/hire-vladimir/) - Code for a number of Splunk resources, including [CIM Validation](https://github.com/hire-vladimir/SA-cim_vladiator).
+- [Nico's GitHub](https://github.com/nicovdw/) -  Repository of searches and dashboards to assist with optimising concurrency settings.
+- [David Veuve](https://www.davidveuve.com/tech/) - Some early resources on Splunk basics and optimisations (infrequently updated).
 
 #### SPL Repositories
 
 Collections of useful Splunk searches
 
-- [GoSplunk](https://gosplunk.com/)
+- [GoSplunk](https://gosplunk.com/) - Search Engine for Splunk Queries split by sourcetype and use-case.
 
 ## Contribute
 
