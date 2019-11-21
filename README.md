@@ -94,11 +94,11 @@ Useful Splunk resources that are not specifically associated with Splunk Inc.
 
 #### Personal Home Pages
 
-- [Simon Duff](https://simonduff.net/splunk) - Miscelaneous scripts and visualisations.
+- [Simon Duff](https://simonduff.net/splunk) - Miscellaneous scripts and visualisations.
 - [Ryan Faircloth](https://www.rfaircloth.com/) - Security and Syslog related materials.
 - [George Starcher](http://www.georgestarcher.com/) - Many Splunk related items, including details on Splunk ES's Extreme Search.
 - [Anthony Tellez](https://anthonygtellez.github.io/) - Security and Machine Learning items.
-- [Duane Waddle](https://www.duanewaddle.com/) - Miscelaneous Splunk items.
+- [Duane Waddle](https://www.duanewaddle.com/) - Miscellaneous Splunk items.
 - [Vladimir's GitHub](https://github.com/hire-vladimir/) - Code for a number of Splunk resources, including [CIM Validation](https://github.com/hire-vladimir/SA-cim_vladiator).
 - [Nico's GitHub](https://github.com/nicovdw/) -  Repository of searches and dashboards to assist with optimising concurrency settings.
 - [David Veuve](https://www.davidveuve.com/tech/) - Some early resources on Splunk basics and optimisations (infrequently updated).
