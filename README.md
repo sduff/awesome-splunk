@@ -1,8 +1,12 @@
+<div align="center">
+	<img width="400" height="290" src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk/splunk-black-white-bg.png" alt="Splunk">
+</div>
+
 # Awesome Splunk [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome apps, visualisations and other resources for Splunk.
 
-*Splunk* captures, indexes, and correlates real-time data in a searchable
+[*Splunk*](https://splunk.com) captures, indexes, and correlates real-time data in a searchable
 repository from which graphs, reports, alerts, dashboards, and visualizations
 can be generated. It is widely used in industries such as finance, utilities,
 healthcare and manufacturing for use-cases including security, compliance and
@@ -21,17 +25,17 @@ IT service monitoring.
 
 Basic resources for getting started with Splunk.
 
-- [Splunk Website](https://splunk.com)
-  - [Downloads](https://www.splunk.com/download)
-  - [Previous Releases](https://www.splunk.com/page/previous_releases)
-- [Splunk Answers](https://answers.splunk.com)
-- [SplunkBase](https://splunkbase.splunk.com)
-- [Splunk Blogs](https://blogs.splunk.com/)
-- [Splunk Dev](https://dev.splunk.com)
-  - [Free Dev License](https://dev.splunk.com/page/developer_license_sign_up)
-- [Splunk Docs](https://docs.splunk.com/)
+- [Splunk Website](https://splunk.com) - Splunk's Homepage.
+  - [Downloads](https://www.splunk.com/download) - Download page.
+  - [Previous Releases](https://www.splunk.com/page/previous_releases) - Previous versions of Splunk Enterprise, Splunk Forwarders.
+- [Splunk Answers](https://answers.splunk.com) - Splunk's Community Questions and Answers.
+- [SplunkBase](https://splunkbase.splunk.com) - Splunk and Community built apps and add-ons.
+- [Splunk Blogs](https://blogs.splunk.com/) - Blog posts on various topics.
+- [Splunk Dev](https://dev.splunk.com) - Develop on Splunk.
+  - [Free Dev License](https://dev.splunk.com/enterprise/dev_license/) - Request a free Splunk Developer license.
+- [Splunk Docs](https://docs.splunk.com/) - Documentation.
 - Splunk Sizing Calculators
-  - [Storage](https://splunk-sizing.appspot.com/)
+  - [Storage](https://splunk-sizing.appspot.com/) - Web Based Storage Requirement Calculator.
 
 ## Apps
 
@@ -61,7 +65,7 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 
 - [ITSI Home Page](https://www.splunk.com/en_us/software/it-service-intelligence.html) - Splunk's Home Page for IT Service Intelligence.
 - [ITSI Splunkbase Entry](https://splunkbase.splunk.com/app/1841/) - Download page (if licensed).
-- [ITSI Documentation](https://docs.splunk.com/Documentation/ITSI/latest)
+- [ITSI Documentation](https://docs.splunk.com/Documentation/ITSI/latest) - ITSI Documentation.
 - [Awesome-ITSI](https://github.com/sduff/awesome-itsi/) - An Awesome list for all things IT Service Intelligence.
 
 ## Visualisations
@@ -71,22 +75,22 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 - [Halo](https://splunkbase.splunk.com/app/3514/) - Hierarchical, relational pie charts.
 - [Heat Map](https://splunkbase.splunk.com/app/4460/) - A grid of related measurements, colour intensity derived from the value.
 - [Calendar Heat Map](https://splunkbase.splunk.com/app/3162/) - Heatmap broken down by days.
-- [Punchcard](https://splunkbase.splunk.com/app/3129/)
-- [Horizon Chart](https://splunkbase.splunk.com/app/3117/)
-- [Sankey Diagram](https://splunkbase.splunk.com/app/3112/)
+- [Punchcard](https://splunkbase.splunk.com/app/3129/) - Punchcard Visualisation.
+- [Horizon Chart](https://splunkbase.splunk.com/app/3117/) - Horizon Chart Visualisation.
+- [Sankey Diagram](https://splunkbase.splunk.com/app/3112/) - Sankey Diagram Visualisation.
 - [WebGL Globe](https://splunkbase.splunk.com/app/3674/) - Spinning globe with events correlated to locations (flashy C-level eye-candy).
 - [Splunkbase Custom Visualizations](https://splunkbase.splunk.com/apps/#/app_content/visualizations) - Download other custom visualizations from Splunkbase.
 
 ## Conferences, Meet-Ups and Socialising
 
-- [UserGroups](https://usergroups.splunk.com/)
-- [.Conf](https://conf.splunk.com)
-  - [Past .Conf Material](https://conf.splunk.com/watch/conf-online.html)
-- [Splunk UserGroups Slack](http://splk.it/slack)
+- [UserGroups](https://usergroups.splunk.com/) - Find a nearby usergroup.
+- [.Conf](https://conf.splunk.com) - Splunk's annual conference website.
+  - [Past .Conf Material](https://conf.splunk.com/watch/conf-online.html) - Watch past presentations and download the slides from past .conf presentations.
+- [Splunk UserGroups Slack](http://splk.it/slack) - Splunk's publicly accessible Slack.
 - [/r/Splunk](https://reddit.com/r/splunk) - Unofficial Sub-Reddit.
 - [IRC](https://wiki.splunk.com/Community:IRC) - Instructions for connecting to `#splunk` of Efnet.
 - [Splunk Store](https://www.mylogocloud.com/splunk) - Order some Splunk Schwag you missed from a meetup or .conf.
-- [Splunk Trust](https://www.splunk.com/en_us/community/splunk-trust.html)
+- [Splunk Trust](https://www.splunk.com/en_us/community/splunk-trust.html) - The Splunk Trust is an invite only group of Splunk Ninjas.
 
 ## Unofficial Resources
 
