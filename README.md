@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="400" height="290" src="https://www.splunk.com/content/dam/splunk2/images/logos/splunk/splunk-black-white-bg.png" alt="Splunk">
+	<img width="344" height="193" src="https://raw.githubusercontent.com/sduff/awesome-splunk/master/splunk.jpg" alt="Splunk">
 </div>
 
 # Awesome Splunk [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
